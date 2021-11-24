@@ -1,0 +1,1 @@
+Este es el archivo para cargar el archivo .txt del paso 6
